@@ -1,0 +1,83 @@
+{
+  "assignments": [
+    {
+      "id": 1,
+      "course": "CS 101",
+      "title": "Programming Assignment 3",
+      "dueDate": "2025-09-22",
+      "dueTime": "11:59 PM"
+    },
+    {
+      "id": 2,
+      "course": "MATH 201",
+      "title": "Calculus Problem Set 5",
+      "dueDate": "2025-10-18",
+      "dueTime": "2:00 PM"
+    },
+    {
+      "id": 3,
+      "course": "ENG 102",
+      "title": "Essay Draft",
+      "dueDate": "2024-08-23",
+      "dueTime": "9:00 AM"
+    },
+    {
+      "id": 4,
+      "course": "HIST 150",
+      "title": "Research Paper",
+      "dueDate": "2024-08-23",
+      "dueTime": "5:00 PM"
+    }
+  ],
+  "classes": [
+    {
+      "id": 1,
+      "course": "CS 101",
+      "startTime": "09:00",
+      "endTime": "10:30",
+      "room": "Tech Building 201",
+      "dayOfWeek": "Friday"
+    },
+    {
+      "id": 2,
+      "course": "MATH 201",
+      "startTime": "11:00",
+      "endTime": "12:15",
+      "room": "Math Hall 105",
+      "dayOfWeek": "Thursday"
+    },
+    {
+      "id": 3,
+      "course": "ENG 102",
+      "startTime": "14:00",
+      "endTime": "15:30",
+      "room": "Liberal Arts 302",
+      "dayOfWeek": "Thursday"
+    },
+    {
+      "id": 4,
+      "course": "HIST 150",
+      "startTime": "16:00",
+      "endTime": "17:15",
+      "room": "History Building 150",
+      "dayOfWeek": "Thursday"
+    }
+  ],
+  "services": [
+    {
+      "name": "Dining Hall",
+      "openTime": "07:00",
+      "closeTime": "21:00"
+    },
+    {
+      "name": "Gym",
+      "openTime": "06:00",
+      "closeTime": "22:00"
+    },
+    {
+      "name": "Tutoring Center",
+      "openTime": "09:00",
+      "closeTime": "17:00"
+    }
+  ]
+}
