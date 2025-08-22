@@ -7,6 +7,7 @@ The “Today’s Student Hub” widget solves the problem of students wasting ti
 2. Product Design
 3. User Experience
 
-# Github Repo Link: https://github.com/archithraman918/student-hub/tree/main
+# Github Repo Link: 
+https://github.com/archithraman918/student-hub/tree/main
 
 # Vercel Link: 
